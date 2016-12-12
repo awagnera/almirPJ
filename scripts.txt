@@ -1,2 +1,6 @@
 asadsfsa.py
 fib.py
+maoir.py
+media.py
+scripts.txt
+Vogais prog.py
